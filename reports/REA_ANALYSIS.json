@@ -1,0 +1,29 @@
+{
+  "engine": "REA_Reverse_Engineer_Anything",
+  "status": "STRUCTURE_RECONSTRUCTED",
+  "analyzed_files": 7,
+  "manifest": {
+    "Hands-On Lab_ Building MCP Tools and AI-Powered Agents for Your SDLC.pptx": {
+      "bytes": 5531110
+    },
+    "The+PQC+Migration+Handbook+.pdf": {
+      "bytes": 1890163
+    },
+    "Vibe Coding 101 - ApeChain.pptx": {
+      "bytes": 4541206
+    },
+    "scripts\\rea_inspector.py": {
+      "bytes": 1485
+    },
+    "scripts\\rsi_engine.py": {
+      "bytes": 2039
+    },
+    "tests\\reality_check_harness.py": {
+      "bytes": 1250
+    },
+    ".github\\workflows\\qmoosa-rsi-rea-sync.yml": {
+      "bytes": 531
+    }
+  },
+  "timestamp": 1794035775
+}
